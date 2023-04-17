@@ -1,2 +1,0 @@
-# PraktikumPWTIGit
-Tugas Github Praktikums
